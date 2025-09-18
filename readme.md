@@ -7,3 +7,5 @@
 **компоненты**: микроконтроллер, микрофон, реле
 
 **требования к выходным параметрам**: 220V
+
+[goodleDrive](https://drive.google.com/drive/folders/1zQxGyF_Lj2dnG7NzLcoO3YV39hwdjnlo)
