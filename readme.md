@@ -1,11 +1,6 @@
 # CAD course - 6 term 2025
 
-**назначение**: управление выключателем света посредством определенного звукового возмущения
-
-**условия**: комнатная температура
-
-**компоненты**: микроконтроллер, микрофон, реле
-
-**требования к выходным параметрам**: 220V
+- _progs_: freeCAD, Altium Designer, SolidWorks (+FlowSimulation)
+- _status_: FDONE
 
 [goodleDrive](https://drive.google.com/drive/folders/1zQxGyF_Lj2dnG7NzLcoO3YV39hwdjnlo)
